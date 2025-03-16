@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Sidarth Ekanayake 👋<br>Researcher at NIFS, Sri Lanka</h2>
+<h1 align="center">Hi 👋, I'm Sidarth Ekanayake</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&width=435&lines=Researcher+%7C+Machine+Learning+Enthusiast;Environmental+Scientist+%7C+Biotech+Innovator)
 
@@ -29,10 +29,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidarthEkanayake&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidarthEkanayake&theme=radical" height="150"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilupulrox&show_icons=true&locale=en&layout=compact" alt="nilupulrox" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilupulrox&show_icons=true&locale=en" alt="nilupulrox" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilupulrox&" alt="nilupulro" /></p>
 
 ---
 
