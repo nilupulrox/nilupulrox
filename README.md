@@ -1,8 +1,10 @@
+<img align="center" height="560" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" />
+
 <h1 align="center">Hi 👋, I'm Sidarth Ekanayake</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&width=435&lines=Researcher+%7C+Machine+Learning+Enthusiast;Environmental+Scientist+%7C+Biotech+Innovator)
 
-<img align="right" height="350" src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1&w=1024&resize=1024&ssl=1" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilupulrox" alt="nilupulrox" /></a> </p>
 
 ### 🚀 Tech Stack
 <div align="left">
