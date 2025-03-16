@@ -1,6 +1,6 @@
 <img align="center" height="490" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" />
 
-<h1 align="center">Hi 👋, I'm Sidarth Ekanayake</h1>
+<h1 align="center">Hi 👋, I'm Sidath Ekanayake</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&width=435&lines=Researcher+%7C+Machine+Learning+Enthusiast;Environmental+Scientist+%7C+Biotech+Innovator)
 
